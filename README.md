@@ -1,4 +1,4 @@
-This is the our code of our paper in IEEE IoT. 
+This is the source code of our paper in IEEE IoT. 
 model.py is the used basic ESN.
 SD.py includes the implementation of Algorithm 1 in this paper.
 proposed_method.py includes the implementation of Algorithm 2 and 3 in this paper.
